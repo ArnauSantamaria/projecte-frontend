@@ -1,0 +1,19 @@
+{
+  "name": "projecte-frontend",
+  "version": "1.0.0",
+  "description": "Projecte per a fer proves amb angular i GULP",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnauSantamaria/projecte-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnauSantamaria/projecte-frontend/issues"
+  },
+  "homepage": "https://github.com/ArnauSantamaria/projecte-frontend#readme"
+}
