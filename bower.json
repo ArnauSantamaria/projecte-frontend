@@ -1,0 +1,20 @@
+{
+  "name": "projecte-frontend",
+  "description": "Projecte per a fer proves amb angular i GULP",
+  "main": "index.html",
+  "authors": [
+    "Arnau Santamaria <arnausanpi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ArnauSantamaria/projecte-frontend",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
