@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+
+# Directori de dependencies
+node_modules
+bower_components
+dist
